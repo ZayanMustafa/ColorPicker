@@ -12,7 +12,8 @@ function forbody(){
     show.innerHTML = text
 
 }
-    // Funcations for Changing the Color 
+   
+ // Funcations for Changing the Color 
 function first(){
     show.style.backgroundColor = box1.style.backgroundColor
     show.innerHTML = ""
